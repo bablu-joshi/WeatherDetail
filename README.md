@@ -1,4 +1,0 @@
-WeatherDetail
-=============
-
-WeatherDetail
